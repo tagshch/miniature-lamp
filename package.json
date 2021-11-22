@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ts-node": "ts-node"
+    "task-1": "ts-node src/task-1-solution.ts",
+    "task-2": "ts-node src/task-2-solution.ts",
+    "task-3": "ts-node src/task-3-solution.ts"
   },
   "repository": {
     "type": "git",
