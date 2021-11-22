@@ -1,0 +1,25 @@
+{
+  "name": "miniature-lamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tagshch/miniature-lamp.git"
+  },
+  "author": "tagshch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tagshch/miniature-lamp/issues"
+  },
+  "homepage": "https://github.com/tagshch/miniature-lamp#readme",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "js-combinatorics": "^1.5.4"
+  }
+}
